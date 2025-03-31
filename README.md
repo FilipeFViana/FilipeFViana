@@ -72,9 +72,7 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" height="30" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="30" title="Tableau"/>
 </p>
 
 
