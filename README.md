@@ -53,16 +53,6 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"          
 />
 
-<img
-    align="left"
-    altt="Flask.api"
-    title="Flask.api"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://hyper.fun/c/ionicons-flask/1.3.0"
->
-
-
 <img 
     align="left" 
     alt="Git" 
