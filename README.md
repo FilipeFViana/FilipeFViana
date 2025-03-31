@@ -50,7 +50,7 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"          
 />
 
 <img
