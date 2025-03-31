@@ -46,8 +46,8 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Flask.api" 
+    title="FLask.api"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"          
