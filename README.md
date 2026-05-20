@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Filipe Viana
+#  Filipe Viana
 
 **`Desenvolvedor ABAP na Coopadap`**
 
@@ -8,7 +8,7 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img align="left" alt="SAP" title="SAP" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" />
 
