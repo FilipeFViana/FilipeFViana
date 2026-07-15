@@ -18,7 +18,7 @@ Autodidata por natureza, complemento os estudos acadêmicos com cursos e projeto
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="[https://jsdelivr.net](https://www.google.com/imgres?q=kotlin%20ong&imgurl=https%3A%2F%2Ficon.icepanel.io%2FTechnology%2Fsvg%2FKotlin.svg&imgrefurl=https%3A%2F%2Ftechicons.dev%2Ficons%2Fkotlin&docid=8MCK6NN-Jy2PeM&tbnid=0YKFKOHCU1DnOM&vet=12ahUKEwjsw4j-sdWVAxU_rJUCHWBUEbEQnPAOegUI-wEQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjsw4j-sdWVAxU_rJUCHWBUEbEQnPAOegUI-wEQAA)" />
+
 
 
 <br/>
